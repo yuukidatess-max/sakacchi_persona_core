@@ -1,1 +1,0 @@
-print("Saka-cchi V3.4 server running...")
